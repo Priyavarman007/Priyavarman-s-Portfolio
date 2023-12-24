@@ -4,7 +4,7 @@ Hi, I'm Priyavarman! Welcome to my data analyst portfolio! I am a highly motivat
 
 Check out my projects to see how I analyze data, work with Python and SQL, and create visualizations using tools like Power BI and Tableau. Each project reflects my passion for turning data into meaningful insights!
 
-My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
+My CV in [pdf](https://github.com/Priyavarman007/Resume/blob/main/Resume%20Priyavarman%20Ramachandran%20(5).pdf).
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
@@ -29,7 +29,7 @@ Projects:
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Covid 19 Data Analysis
-**Code:** [`covid-19 data analysis using Python`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
+**Code:** [`Covid-19 data analysis using Python`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
 
 **Goal:** Utilize Pandas and NumPy to conduct comprehensive COVID-19 data analysis, extracting meaningful insights and trends for informed decision-making.
 
@@ -45,7 +45,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Goal:** Optimize and streamline housing data integrity and quality through thorough cleaning and normalization using SQL Server
 
-**Code:** [[https://github.com/Priyavarman007/Housing-Data-Cleaning](https://github.com/Priyavarman007/Housing-Data-Cleaning/blob/main/Housing%20Data%20Analysis.sql)]
+**Code:** [Housing Data Cleaning](https://github.com/Priyavarman007/Housing-Data-Cleaning/blob/main/Housing%20Data%20Analysis.sql)
 
 **Description:** The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
 
@@ -56,7 +56,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 ### Walmart Data visualization
-**Link:** [`Walmart Data Visualization using Tableau`](https://github.com/Priyavarman007/Walmart-Data-Analysis/blob/main/dashboard.png)
+**Link:** [Walmart Data Visualization using Tableau](https://github.com/Priyavarman007/Walmart-Data-Analysis/blob/main/dashboard.png)
 
 **Description:** Developed an engaging Walmart data visualization project using Tableau, providing a user-friendly interface to explore and understand key performance metrics and trends for informed decision-making
 
@@ -67,7 +67,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 ### HR Data Visualization 
-**Link:** [`https://github.com/Priyavarman007/HR-Data-Analysis/blob/main/HR%20Analytics%20Atliq_masked.pbix']
+**Link:** [HR Data Visualization using PowerBI](https://github.com/Priyavarman007/HR-Data-Analysis/blob/main/HR%20Analytics%20Atliq_masked.pbix)
 
 **Description:** Uncover workforce insights with dynamic dashboards and visualizations, optimizing HR decision-making for enhanced organizational performance.
 
@@ -79,7 +79,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Pizza sales data Visualization 
 
-**Link:** [https://github.com/Priyavarman007/Pizza-sales-data-analysis/blob/main/Pizza%20Power%20BI%20Project2.pbit)
+**Link:** [Pizza sales data Visualization using PowerBI](https://github.com/Priyavarman007/Pizza-sales-data-analysis/blob/main/Pizza%20Power%20BI%20Project2.pbit)
 
 **Description:** Efficiently visualize and communicate pizza sales insights through a Power BI project, facilitating data-driven decision-making for optimizing sales strategies and operational efficiency.
 
@@ -103,10 +103,11 @@ PSG Institute of Advanced Studies
 
 ## Certificates
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
-- [Snowflake SnowPro Certification]([https://www.coursera.org/account/accomplishments/professional-cert/LRQ498UKBBSJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof](https://www.credly.com/badges/9ba5655b-4bc7-4808-8e50-9c012551330f/public_url)) (Sep 2022) (Coursera - Google)
-- [Tableau](https://www.coursera.org/account/accomplishments/verify/62LME4DV8CUV) (Oct 2022) (Coursera - University of California, Davis)
-- [Python for Data Science](https://coursera.org/share/a16ecd3de61dd794199c452586cba90c) (Feb 2023) (Coursera - University of Colorado Boulder)
+- [Snowflake SnowPro Certification](https://www.credly.com/badges/9ba5655b-4bc7-4808-8e50-9c012551330f/public_url) (June 2023) (Snowflake)
+- [Crash Course on Python](https://coursera.org/share/e98723d22f4c4ce1d4f1bbc2878776f5) (Dec 2022) (Coursera - Google)
+- [Foundations: Data, Data, Everywhere](https://coursera.org/share/d800ba9d4dab8262505a35d2ca8f427f) (Dec 2023) (Coursera - Google)
+- [User Experience (UX) Design Professional Certifications](https://coursera.org/share/1ef5b3ce89e61e4f613ca2e3f68e87ca) (Jan 2023) (Coursera - Google)
 
 ## Contacts
-- LinkedIn: [@tiannaparris](https://www.linkedin.com/in/tianna-parris-9b6823176/)
-- Email: parristianna@yahoo.com
+- LinkedIn: [@Priyavarman](https://www.linkedin.com/in/priyavarman-ramachandran/)
+- Email: (priyavarman0715@gmail.com)

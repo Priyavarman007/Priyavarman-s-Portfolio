@@ -23,7 +23,7 @@ Projects:
 
   - Education
 
-  - Certificate] 
+  - Certificate
   - Contact
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.

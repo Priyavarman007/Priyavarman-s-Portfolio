@@ -1,6 +1,6 @@
 # Priyavarman - Data Analyst Portfolio
 ## About
-Hi, I'm Priyavarman! Welcome to my data analyst portfolio! I am a highly motivated and detail-oriented individual with a strong educational background in Computer Science, having earned my Bachelor of Science degree in the field. Throughout my academic journey, I developed a keen interest in leveraging data to derive meaningful insights, which led me to specialize in data analysis.
+Hi, I'm Priyavarman! Welcome to my data analyst portfolio! I am a highly motivated and detail-oriented individual with a strong educational background in Computer Science, having earned my Bachelor of Science degree in the Computer Engineering Technology. Throughout my academic journey, I developed a keen interest in leveraging data to derive meaningful insights, which led me to specialize in data analysis.
 
 Check out my projects to see how I analyze data, work with Python and SQL, and create visualizations using tools like Power BI and Tableau. Each project reflects my passion for turning data into meaningful insights!
 
@@ -20,7 +20,7 @@ Projects:
   - Power BI
     - https://github.com/Priyavarman007/Pizza-sales-data-analysis
     - https://github.com/Priyavarman007/HR-Data-Analysis
-
+  - Skills
   - Education
 
   - Certificate
@@ -87,7 +87,14 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Technology:** Power BI 
 
-
+### Skills
+- **Technical Skills:** SQL, Python, JavaScript, Hadoop, Snowflake, AWS, UAT Testing, ETL  
+- **Data Visualization:** Microsoft Excel, Tableau, Power BI (DAX), Looker  
+- **Databases:** MySQL, SQL Server, PostgreSQL, Oracle  
+- **Packages:** NumPy, Pandas, Matplotlib, SciPy  
+- **Operating Systems:** Linux, Windows  
+- **Tools:** Jenkins, Jira, ServiceNow, GitHub  
+- **Others:** HTML, CSS  
 
 
 
@@ -111,3 +118,4 @@ The best way to showcase skills is by doing and sharing your job done but someti
 ## Contacts
 - LinkedIn: [@Priyavarman](https://www.linkedin.com/in/priyavarman-ramachandran/)
 - Email: (priyavarman0715@gmail.com)
+- Phone: (516)879-0207

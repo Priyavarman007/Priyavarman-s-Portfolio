@@ -92,14 +92,14 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 ## Education
-Bachelor’s of Science in Computer Engineering Technology
-Farmingdale State College(SUNY) Farmingdale, NY
-Aug 2021 - May 2023
-GPA: 3.4/4
+Bachelor’s of Science in Computer Engineering Technology  
+Farmingdale State College(SUNY) Farmingdale, NY  
+Aug 2021 - May 2023  
+GPA: 3.4/4  
 
-PSG College Of Technology
-PSG Institute of Advanced Studies
-2019 - 2021
+PSG College Of Technology  
+PSG Institute of Advanced Studies  
+2019 - 2021  
 
 ## Certificates
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):

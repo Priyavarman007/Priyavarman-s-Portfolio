@@ -1,6 +1,8 @@
 # Priyavarman - Data Analyst & Data Engineer Portfolio
 ## About
-Hi, I'm Priyavarman! Welcome to my data analyst portfolio! I am a highly motivated and detail-oriented individual with a strong educational background in Computer Science, having earned my Bachelor of Science degree in the Computer Engineering Technology. Throughout my academic journey, I developed a keen interest in leveraging data to derive meaningful insights, which led me to specialize in data analysis.
+Hi, I'm Priyavarman! Welcome to my data analyst & Engineer portfolio! I am a highly motivated and detail-oriented individual with a strong educational background in Computer Science, having earned my Bachelor of Science degree in the Computer Engineering Technology. Throughout my academic journey, I developed a keen interest in leveraging data to derive meaningful insights, which led me to specialize in data analysis.
+
+I have a strong passion for data engineering, particularly in building and optimizing ETL pipelines and leveraging tools such as Python, SQL, Snowflake, AWS and Apache Airflow. I am also keen on creating impactful data visualizations using Tableau and working with scalable data infrastructure technologies like Spark and Redshift.
 
 Check out my projects to see how I analyze data, work with Python and SQL, and create visualizations using tools like Power BI and Tableau. Each project reflects my passion for turning data into meaningful insights!
 
@@ -88,14 +90,22 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** Power BI 
 
 ### Skills
-- **Technical Skills:** SQL, Python, JavaScript, Hadoop, Snowflake, AWS, UAT Testing, ETL  
+- **Technical Skills:** SQL, Python, JavaScript, Hadoop, Snowflake, AWS, Spark, Redshift, ETL  
 - **Data Visualization:** Microsoft Excel, Tableau, Power BI (DAX), Looker  
 - **Databases:** MySQL, SQL Server, PostgreSQL, Oracle  
 - **Packages:** NumPy, Pandas, Matplotlib, SciPy  
 - **Operating Systems:** Linux, Windows  
-- **Tools:** Jenkins, Jira, ServiceNow, GitHub  
+- **Tools:** Jenkins, Jira, ServiceNow, GitHub, Airflow  
 - **Others:** HTML, CSS  
 
+## Experience
+Data Analyst & Engineer Intern
+Acuutech
+Jan 2024 - Apr 2024
+
+Data Analyst Intern
+Maveric Systems Limited
+May 2022 - Aug 2023
 
 
 ## Education

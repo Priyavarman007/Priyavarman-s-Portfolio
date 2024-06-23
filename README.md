@@ -99,13 +99,13 @@ In this section I will list data analytics projects briefly describing the techn
 - **Others:** HTML, CSS  
 
 ## Experience
-Data Analyst & Engineer Intern
-Acuutech
-Jan 2024 - Apr 2024
+Data Analyst & Engineer Intern< br / > 
+Acuutech< br / >
+Jan 2024 - Apr 2024< br / >
 
-Data Analyst Intern
-Maveric Systems Limited
-May 2022 - Aug 2023
+Data Analyst Intern< br / >
+Maveric Systems Limited< br / >
+May 2022 - Aug 2023< br / >
 
 
 ## Education

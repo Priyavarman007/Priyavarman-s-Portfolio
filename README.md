@@ -1,4 +1,4 @@
-# Priyavarman - Data Analyst Portfolio
+# Priyavarman - Data Analyst & Data Engineer Portfolio
 ## About
 Hi, I'm Priyavarman! Welcome to my data analyst portfolio! I am a highly motivated and detail-oriented individual with a strong educational background in Computer Science, having earned my Bachelor of Science degree in the Computer Engineering Technology. Throughout my academic journey, I developed a keen interest in leveraging data to derive meaningful insights, which led me to specialize in data analysis.
 
@@ -102,7 +102,7 @@ In this section I will list data analytics projects briefly describing the techn
 Bachelor’s of Science in Computer Engineering Technology  
 Farmingdale State College(SUNY) Farmingdale, NY  
 Aug 2021 - May 2023  
-GPA: 3.4/4  
+GPA: 3.5/4  
 
 PSG College Of Technology  
 PSG Institute of Advanced Studies  
